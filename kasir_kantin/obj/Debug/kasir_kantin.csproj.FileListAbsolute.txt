@@ -1,0 +1,16 @@
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\bin\Debug\kasir_kantin.exe.config
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\bin\Debug\kasir_kantin.exe
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\bin\Debug\kasir_kantin.pdb
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.csproj.AssemblyReference.cache
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.Properties.Resources.resources
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.csproj.GenerateResource.cache
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.csproj.CoreCompileInputs.cache
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.exe
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.pdb
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.exe.config
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.FormKategori.resources
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.FormMenu.resources
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.FormTransaksi.resources
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.FormMain.resources
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.FormLogin.resources
+C:\Users\bagas\source\repos\kasir_kantin\kasir_kantin\obj\Debug\kasir_kantin.FormLaporan.resources
